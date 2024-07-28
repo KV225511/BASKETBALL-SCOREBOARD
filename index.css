@@ -3,6 +3,10 @@ body {
 }
 .container{
     background: #1B244A;
+    width: 700px;
+    position: absolute;
+    top: 25%;
+    left: 30%;
 }
 
 .scorecontainer{
